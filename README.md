@@ -6,7 +6,7 @@
 <!-- Begin Jekyll SEO tag v2.7.1 -->
 
 <meta name="generator" content="Jekyll v3.9.0">
-<meta property="og:title" content="AYAN-MALIK">
+<meta property="og:title" content="">
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://theayanmalik.github.io/AYAN-MALIK/">
 <meta property="og:url" content="https://theayanmalik.github.io/AYAN-MALIK/">
@@ -823,7 +823,7 @@ Promos
 &lt;/span&gt;<span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif"></span><span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif; letter-spacing:0em">&nbsp;.</span>&lt;/span&gt;&lt;/h1&gt;</div><div id="comp-kexmn75f" class="_2bafp" data-testid="richTextElement"><h3 class="font_3" style="font-size:50px; text-align:center"><span style="font-size:50px"><span style="color:#000000"><span style="font-family:marzo-w00-regular,fantasy">LET'S build something great!</span></span></span></h3>
 
   <br>
-  <br><br><br><br><br><br>
+  <br><br><br><br>
   <table cellspacing="45">
   <tbody><tr>
   <td>
@@ -871,7 +871,7 @@ Promos
 <br><br><br><br><br><br><br>
 <center><span style="font-size:30px"><span style="color:#000000"><span style="font-family:marzo-w00-regular,fantasy">WaNNA WORK TOGETHER? Reach out Now!</span></span></span>
 <br>
-<br><br><br><br><br><br>
+<br><br><br>
 <form action="mailto:ayanperwez6@gmail.com" method="post" enctype="text/plain ">
 <div data-mesh-id="" data-testid="inline-content" class=""><div data-mesh-id="comp-kdd8rop0inlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-kdd8roq6" class="_1FsS0 _19QH-"><div class="ABx0f"><input type="text" name="name-*" id="input_comp-kdd8roq6" class="_3rh7f has-custom-focus" value="" placeholder="Name *" required="" maxlength="100" aria-label="Name *"></div></div><div id="comp-kdd8roqf" class="_1FsS0 _19QH-"><div class="ABx0f"><input type="email" name="email-*" id="input_comp-kdd8roqf" class="_3rh7f has-custom-focus" value="" placeholder="Email *" required="" pattern="^.+@.+\.[a-zA-Z]{2,63}$" maxlength="250" aria-label="Email *"></div></div><div id="comp-kdd8roqo" class="_1FsS0"><div class="ABx0f"><input type="text" name="subject" id="input_comp-kdd8roqo" class="_3rh7f has-custom-focus" value="" placeholder="Subject" aria-label="Subject"></div></div><div id="comp-kdd8roqr" class="_1VpqH _1CjOv"><label for="textarea_comp-kdd8roqr" class="lW_XI"></label><textarea id="textarea_comp-kdd8roqr" class="_2Brtg has-custom-focus" placeholder="Message *" required=""></textarea></div><div id="comp-kdd8roqy1" aria-disabled="false" class="_2btH0"><button data-testid="buttonElement" class="_2k7xj"><span class="nr31w">Contact</span></button></div><div id="comp-kdd8rora1" class="_2bafp" data-testid="richTextElement"><p dir="ltr" style="font-size: 14px;text-align:center"><span style="color:rgba(186,218,85,1);"><span style="font-family:helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;"><span style="font-size:14px;">Thanks! Message sent.</span></span></span></p></div></div></div></form>
 
