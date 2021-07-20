@@ -860,7 +860,7 @@ Promos
 <br>
 
 &gt;Add new features to your video. I can add transition ,cut,crop,adjust colors,chrome key,add music,create new styles,add subtitles,adjust resolution, aspect ratio and many more.
-<span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif"></span><span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif; letter-spacing:0em">&nbsp;.</span>&lt;/span&gt;&lt;/h1&gt;</div><div id="comp-kexmn75f" class="_2bafp" data-testid="richTextElement"><h3 class="font_3" style="font-size:50px; text-align:center"><span style="font-size:50px"><span style="color:#000000"><span style="font-family:marzo-w00-regular,fantasy">LET'S build something great!</span></span></span></h3>
+<span style="font-family:marzo-w00-regular,fantasy">LET'S build something great!</span>
 
   <br>
   <br><br>
