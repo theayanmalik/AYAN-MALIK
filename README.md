@@ -10,9 +10,9 @@
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://theayanmalik.github.io/AYAN-MALIK/">
 <meta property="og:url" content="https://theayanmalik.github.io/AYAN-MALIK/">
-<meta property="og:site_name" content="AYAN-MALIK">
+<meta property="og:site_name" content="">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="AYAN-MALIK">
+<meta property="twitter:title" content="">
 <script src="https://browser.sentry-cdn.com/5.21.4/bundle.min.js"></script><script type="application/ld+json">
 {"url":"https://theayanmalik.github.io/AYAN-MALIK/","@type":"WebSite","headline":"AYAN-MALIK","name":"AYAN-MALIK","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
