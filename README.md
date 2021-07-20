@@ -42,10 +42,7 @@
   <body class="">
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://theayanmalik.github.io/AYAN-MALIK/">AYAN-MALIK</a></h1>
-      
-
-      
+     
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
