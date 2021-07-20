@@ -18,8 +18,55 @@
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/AYAN-MALIK/assets/css/style.css?v=5c645d73c1bebcd1b5c89e5c88dd643fbf6220b4">
+  <html lang="en-US"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>AYAN-MALIK</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="AYAN-MALIK">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://theayanmalik.github.io/AYAN-MALIK/">
+<meta property="og:url" content="https://theayanmalik.github.io/AYAN-MALIK/">
+<meta property="og:site_name" content="AYAN-MALIK">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="AYAN-MALIK">
+<script src="https://browser.sentry-cdn.com/5.21.4/bundle.min.js"></script><script type="application/ld+json">
+{"url":"https://theayanmalik.github.io/AYAN-MALIK/","@type":"WebSite","headline":"AYAN-MALIK","name":"AYAN-MALIK","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/AYAN-MALIK/assets/css/style.css?v=511def0e944ba7814ee057cf28d7a3b4037b185e">
   </head>
   <body class="">
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://theayanmalik.github.io/AYAN-MALIK/">AYAN-MALIK</a></h1>
+      
+
+      
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>AYAN-MALIK</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="AYAN-MALIK">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://theayanmalik.github.io/AYAN-MALIK/">
+<meta property="og:url" content="https://theayanmalik.github.io/AYAN-MALIK/">
+<meta property="og:site_name" content="AYAN-MALIK">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="AYAN-MALIK">
+<script src="https://browser.sentry-cdn.com/5.21.4/bundle.min.js"></script><script type="application/ld+json">
+{"url":"https://theayanmalik.github.io/AYAN-MALIK/","@type":"WebSite","headline":"AYAN-MALIK","name":"AYAN-MALIK","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/AYAN-MALIK/assets/css/style.css?v=5c645d73c1bebcd1b5c89e5c88dd643fbf6220b4">
+  
+  
     <div class="container-lg px-3 my-5 markdown-body">
       
       
@@ -758,11 +805,11 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
 </svg>
 </defs><image href="https://scontent.fixr3-1.fna.fbcdn.net/v/t1.6435-9/110069591_2500291686928179_2391535149870326286_n.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=174925&amp;_nc_ohc=aOoaA3Lq4iQAX_IMioN&amp;_nc_ht=scontent.fixr3-1.fna&amp;oh=e421593672212e83720429b0e6cc8d84&amp;oe=60FBDAFB" key="image" data-type="image" width="294" height="247" preserveAspectRatio="xMidYMid slice" mask="url(#mask-comp-kexjf79b)" data-svg-mask="mask-comp-kexjf79b-svg" style="width: 294px; height: 247px; object-fit: cover;"></image></svg></div></wix-image></div></div><div id="comp-kexlxazv" class="_2bafp" data-testid="richTextElement"><h3 class="font_3" style="text-align:center;font-size:60px"><span style="color:rgb(0, 0, 0); font-family:marzo-w00-regular,fantasy">Ayan Malik</span><span style="color:rgb(0, 0, 0); font-family:marzo-w00-regular,fantasy"></span><span style="color:rgb(0, 0, 0); font-family:marzo-w00-regular,fantasy">&nbsp;</span></h3></div><div id="comp-jm2tp0nk" class="_2bafp" data-testid="richTextElement"><h1 class="font_0" style="font-size:21px; text-align:justify"><span style="font-size:21px"><span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif; letter-spacing:0em"> </span><span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif"></span><span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif; letter-spacing:0em"> Ayan Malik is young dedicated professional video editor.He is offering Professional Video Editing services here on Fiverr. He has productive experience in adobe premier pro . </span></span></h1>
 
-<h1 class="font_0" style="font-size:21px; text-align:justify">&nbsp;</h1>
 
-<h1 class="font_0" style="font-size:21px; text-align:justify"><span style="font-size:21px"><span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif; letter-spacing:0em">.&nbsp;</span></span></h1>
 
-<h1 class="font_0" style="font-size:21px; text-align:justify">&nbsp;</h1>
+
+
+
 
 <h1 class="font_0" style="font-size:21px; text-align:justify"><span style="font-size:21px"><span style="color:rgb(0, 0, 0); font-family:roboto-thin,roboto,sans-serif; letter-spacing:0em">&gt; Promos
 <br>
@@ -866,6 +913,16 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
 
 
 </div></div></div></div></div></div></div></div></main></div></div></div></div>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  
+
+
 
 
       
