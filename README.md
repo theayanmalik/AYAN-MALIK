@@ -68,7 +68,6 @@
   
   
     <div class="container-lg px-3 my-5 markdown-body">
-      
       <h1><a href="https://theayanmalik.github.io/AYAN-MALIK/">AYAN-MALIK</a></h1>
       
 
@@ -90,8 +89,6 @@
 <script src="https://browser.sentry-cdn.com/5.21.4/bundle.min.js"></script><script type="application/ld+json">
 {"url":"https://theayanmalik.github.io/AYAN-MALIK/","@type":"WebSite","headline":"AYAN-MALIK","name":"AYAN-MALIK","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/AYAN-MALIK/assets/css/style.css?v=5c645d73c1bebcd1b5c89e5c88dd643fbf6220b4">
   
   
     <div class="container-lg px-3 my-5 markdown-body">
