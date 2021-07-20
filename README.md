@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>web</title>
+<title></title>
 <meta name="generator" content="Jekyll v3.9.0">
 <meta property="og:title" content="web">
 <meta property="og:locale" content="en_US">
