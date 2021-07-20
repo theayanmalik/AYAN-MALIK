@@ -10,7 +10,7 @@
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://theayanmalik.github.io/web/">
 <meta property="og:url" content="https://theayanmalik.github.io/web/">
-<meta property="og:site_name" content=>
+
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="">
 <script src="https://browser.sentry-cdn.com/5.21.4/bundle.min.js"></script><script type="application/ld+json">
@@ -22,8 +22,6 @@
   <body class="">
     <div class="container-lg px-3 my-5 markdown-body">
       
-
-      <h1 id=></h1>
 
 
   <meta charset="utf-8">
