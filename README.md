@@ -6,13 +6,13 @@
 <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title></title>
 <meta name="generator" content="Jekyll v3.9.0">
-<meta property="og:title" content="web">
+<meta property="og:title" content="">
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://theayanmalik.github.io/web/">
 <meta property="og:url" content="https://theayanmalik.github.io/web/">
-<meta property="og:site_name" content="web">
+<meta property="og:site_name" content=>
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="web">
+<meta property="twitter:title" content="">
 <script src="https://browser.sentry-cdn.com/5.21.4/bundle.min.js"></script><script type="application/ld+json">
 {"url":"https://theayanmalik.github.io/web/","@type":"WebSite","headline":"web","name":"web","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
@@ -23,7 +23,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <h1 id="web">web</h1>
+      <h1 id=></h1>
 
 
   <meta charset="utf-8">
