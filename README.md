@@ -859,9 +859,9 @@ Promos
 &gt;Get the highest possible quality at no extra cost
 <br>
 
-&gt;Add new features to your video. I can add transition ,cut,crop,adjust colors,chrome key,add music,create new styles,add subtitles,adjust resolution, aspect ratio and many more.
+&gt;Add new features to your video. I can add transition ,cut,crop,adjust colors,chrome key,add music,create new styles,add subtitles,adjust resolution, aspect ratio and many more.<br><br><br>
 <div id="comp-kexmn75f" class="_2bafp" data-testid="richTextElement"><h3 class="font_3" style="font-size:50px; text-align:center"><span style="font-size:50px"><span style="color:#000000"><span style="font-family:marzo-w00-regular,fantasy">LET'S build something great!</span></span></span></h3></div>
-  <table cellspacing="45">
+  <table ">
   <tbody><tr>
   <td>
   <img src="https://fiverr-res.cloudinary.com/videos/so_5.597977,t_main1,q_auto,f_auto/tmxsw2bfov5enqqnsxi3/do-creative-video-editing.png" alt="theayanmalik" width="200" height="100">
